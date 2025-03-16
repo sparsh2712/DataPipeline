@@ -9,7 +9,7 @@ def get_youtube_transcript(video_id):
     ytt_api = YouTubeTranscriptApi()
     fetched_transcript = ytt_api.fetch(video_id)
     
-    transcript_text = " ".join(snippet['text'] for snippet in fetched_transcript)
+    transcript_text = " ".join(snippet.text for snippet in fetched_transcript)
     return transcript_text
 
 def get_playlist_videos(playlist_id, api_key, max_results=None):
@@ -91,3 +91,4 @@ if __name__ == "__main__":
         print(f"An API error occurred: {e}")
     except Exception as e:
         print(f"An error occurred: {e}")
+    # print(get_youtube_transcript("UYN3ATqvR_E"))
