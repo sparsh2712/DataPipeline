@@ -1,0 +1,5 @@
+
+            INSERT INTO nse.annualreports 
+            (company_name, from_year, to_year, attachment_file, symbol)
+            VALUES ('Arvee Laboratories (India) Limited', '2023', '2024', 'https://nsearchives.nseindia.com/annual_reports/AR_25547_ARVEE_2023_2024_03092024155922.pdf', 'ARVEE'), ('Arvee Laboratories (India) Limited', '2022', '2023', 'https://nsearchives.nseindia.com/annual_reports/AR_23940_ARVEE_2022_2023_13102023152945_10132023160000.zip', 'ARVEE'), ('Arvee Laboratories (India) Limited', '2021', '2022', 'https://nsearchives.nseindia.com/annual_reports/AR_20372_ARVEE_2021_2022_14072022174729_07142022180002.zip', 'ARVEE'), ('Arvee Laboratories (India) Limited', '2020', '2021', 'https://nsearchives.nseindia.com/annual_reports/AR_18859_ARVEE_2020_2021_24082021154521_24082021160001.zip', 'ARVEE');
+            

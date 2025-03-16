@@ -1,0 +1,9 @@
+{
+    "AnnualReports":{
+        "company_name": "companyName",
+        "from_year": "fromYr",
+        "to_year": "toYr",
+        "attachment_file": "fileName",
+        "symbol": "symbol"
+    }
+}

@@ -1,0 +1,250 @@
+{
+    "Dashboard": {
+        "endpoint": "/companies-listing/corporate-filings-application",
+        "params": []
+    },
+    "Announcements": {
+        "endpoint": "/companies-listing/corporate-filings-announcements",
+        "params": []
+    },
+    "AnnXBRL": {
+        "endpoint": "/companies-listing/corporate-filings-announcements-xbrl",
+        "params": []
+    },
+    "AnnualReports": {
+        "endpoint": "/companies-listing/corporate-filings-annual-reports",
+        "params": []
+    },
+    "AnnualReportsXbrl": {
+        "endpoint": "/companies-listing/corporate-filings-annual-reports-xbrl",
+        "params": []
+    },
+    "BussinessSustainabilitiyReport": {
+        "endpoint": "/companies-listing/corporate-filings-bussiness-sustainabilitiy-reports",
+        "params": []
+    },
+    "BoardMeetings": {
+        "endpoint": "/companies-listing/corporate-filings-board-meetings",
+        "params": []
+    },
+    "CorporateActions": {
+        "endpoint": "/companies-listing/corporate-filings-actions",
+        "params": []
+    },
+    "CompanyDirectory": {
+        "endpoint": "/companies-listing/corporate-filings-directory",
+        "params": []
+    },
+    "CorpGovernanceStatus": {
+        "endpoint": "/companies-listing/corporate-filings-governance",
+        "params": []
+    },
+    "DailyBuyback": {
+        "endpoint": "/companies-listing/corporate-filings-daily-buy-back",
+        "params": []
+    },
+    "credit_rating": {
+        "endpoint": "/companies-listing/debt-centralised-database/crd",
+        "params": []
+    },
+    "default_payment": {
+        "endpoint": "/companies-listing/debt-centralised-database/dpd",
+        "params": []
+    },
+    "interest_Payment": {
+        "endpoint": "/companies-listing/debt-centralised-database/ipd",
+        "params": []
+    },
+    "redempay": {
+        "endpoint": "/companies-listing/debt-centralised-database/rpd",
+        "params": []
+    },
+    "reg_60": {
+        "endpoint": "/companies-listing/debt-centralised-database",
+        "params": []
+    },
+    "EventCalendar": {
+        "endpoint": "/companies-listing/corporate-filings-event-calendar",
+        "params": []
+    },
+    "FinancialResults": {
+        "endpoint": "/companies-listing/corporate-filings-financial-results",
+        "params": []
+    },
+    "ResultsCompare": {
+        "endpoint": "/companies-listing/corporate-filings-financial-results-comparision",
+        "params": []
+    },
+    "FIADR": {
+        "endpoint": "/companies-listing/corporate-filings-ADR",
+        "params": []
+    },
+    "FIGDR": {
+        "endpoint": "/companies-listing/corporate-filings-GDR",
+        "params": []
+    },
+    "FIQIP": {
+        "endpoint": "/companies-listing/corporate-filings-QIP",
+        "params": []
+    },
+    "FIFCCB": {
+        "endpoint": "/companies-listing/corporate-filings-FCCB",
+        "params": []
+    },
+    "FIPREF": {
+        "endpoint": "/companies-listing/corporate-filings-PREF",
+        "params": []
+    },
+    "FIRI": {
+        "endpoint": "/companies-listing/corporate-filings-RI",
+        "params": []
+    },
+    "InsiderTrading": {
+        "endpoint": "/companies-listing/corporate-filings-insider-trading",
+        "params": []
+    },
+    "InsiderPlan": {
+        "endpoint": "/companies-listing/corporate-filings-insider-trading-plan",
+        "params": []
+    },
+    "IntegratedFiling": {
+        "endpoint": "/companies-listing/corporate-integrated-filing",
+        "params": []
+    },
+    "InvestorComplaints": {
+        "endpoint": "/companies-listing/corporate-filings-investor-complaints",
+        "params": []
+    },
+    "debt_offer_document": {
+        "endpoint": "/companies-listing/corporate-filings-offer-documents",
+        "params": []
+    },
+    "summary": {
+        "endpoint": "/companies-listing/corporate-filings-summary-documents",
+        "params": []
+    },
+    "rights": {
+        "endpoint": "/companies-listing/corporate-filings-rights",
+        "params": []
+    },
+    "scheme_document": {
+        "endpoint": "/companies-listing/corporate-filings-scheme-document",
+        "params": []
+    },
+    "information_memorandum": {
+        "endpoint": "/companies-listing/corporate-filings-information-memorandum",
+        "params": []
+    },
+    "AnnXBRL-LOS": {
+        "endpoint": "/companies-listing/corporate-filings-announcements-xbrl-loss-share",
+        "params": []
+    },
+    "Ebd": {
+        "endpoint": "/companies-listing/corporate-filings-EBD",
+        "params": []
+    },
+    "offmarket": {
+        "endpoint": "/companies-listing/corporate-filings-OffermarketTranction",
+        "params": []
+    },
+    "Qd": {
+        "endpoint": "/companies-listing/corporate-filings-QD",
+        "params": []
+    },
+    "Tradingplan": {
+        "endpoint": "/companies-listing/corporate-filings-TradingPlan",
+        "params": []
+    },
+    "Mupsi": {
+        "endpoint": "/companies-listing/corporate-filings-UPSI",
+        "params": []
+    },
+    "RelatedPartyTransactions": {
+        "endpoint": "/companies-listing/related-party-transactions",
+        "params": []
+    },
+    "sast_29": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-29",
+        "params": []
+    },
+    "sast_31": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-31",
+        "params": []
+    },
+    "sast_encumbrance": {
+        "endpoint": "/companies-listing/corporate-filings-encumbrance",
+        "params": []
+    },
+    "sast_pledged": {
+        "endpoint": "/companies-listing/corporate-filings-pledged-data",
+        "params": []
+    },
+    "statementOfDeviation": {
+        "endpoint": "/companies-listing/corporate-filings-statement-of-deviation-variation",
+        "params": []
+    },
+    "pitAnnual": {
+        "endpoint": "/companies-listing/corporate-filings-pit-annual",
+        "params": []
+    },
+    "sddRegulation7p": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-7-promoter",
+        "params": []
+    },
+    "sddRegulation7np": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-7-non-promoter",
+        "params": []
+    },
+    "sddRegulation29p": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-29-promoters",
+        "params": []
+    },
+    "sddRegulation29np": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-29-non-promoters",
+        "params": []
+    },
+    "sddRegulation30": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-30-annual",
+        "params": []
+    },
+    "sddRegulation31": {
+        "endpoint": "/companies-listing/corporate-filings-regulation-31-event",
+        "params": []
+    },
+    "secretarial-camp": {
+        "endpoint": "/companies-listing/corporate-filings-secretarial-compliance-report",
+        "params": []
+    },
+    "corpreg7": {
+        "endpoint": "/companies-listing/corporate-filings-share-transfers",
+        "params": []
+    },
+    "PostalBallot": {
+        "endpoint": "/companies-listing/corporate-filings-postal-ballot",
+        "params": []
+    },
+    "ShareholdingPatterns": {
+        "endpoint": "/companies-listing/corporate-filings-shareholding-pattern",
+        "params": []
+    },
+    "ShareholdingPatternsSdd": {
+        "endpoint": "/companies-listing/corporate-filings-shareholding-pattern-sdd",
+        "params": []
+    },
+    "StmtOfImpact": {
+        "endpoint": "/companies-listing/statement-on-impact-of-audit-qualification",
+        "params": []
+    },
+    "AnnXBRL-CTW": {
+        "endpoint": "/companies-listing/corporate-filings-announcements-xbrl-trading-window-disclosure",
+        "params": []
+    },
+    "UnitholdingPatterns": {
+        "endpoint": "/companies-listing/corporate-filings-unitholding-pattern",
+        "params": []
+    },
+    "VotingResults": {
+        "endpoint": "/companies-listing/corporate-filings-voting-results",
+        "params": []
+    }
+}

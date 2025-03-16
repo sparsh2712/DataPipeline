@@ -1,0 +1,43 @@
+AnnXBRL has multiple possibel values in types: announcements, outcome, Reg30, annFraud, cdr, shm, fundRaising, agr, annOts, CIRP
+In financial results you can set period to Quaterly, Annual
+In FIQIP index can take values FIQIPLS, FIQIPIP
+In FIFCCB index can take values FIFCCBLS, FIFCCBIP
+In FIPREF index can take values FIPREF, FIPREFLS
+In FIPREF index can take values FIRIIP, FIRILS
+in secretrial-cam fin year of the form JUL-2023%20to%20JUN-2024
+values: [
+    "JAN-2024 to DEC-2024",
+    "OCT-2023 to SEP-2024",
+    "JUL-2023 to JUN-2024",
+    "APR-2023 to MAR-2024",
+    "JAN-2023 to DEC-2023",
+    "JAN-2023 to MAR-2024",
+    "OCT-2022 to SEP-2023",
+    "JUL-2022 to JUN-2023",
+    "APR-2022 to MAR-2023",
+    "JAN-2022 to DEC-2022",
+    "JAN-2022 to MAR-2023",
+    "OCT-2021 to SEP-2022",
+    "JUL-2021 to JUN-2022",
+    "APR-2021 to MAR-2022",
+    "JAN-2021 to DEC-2021",
+    "JAN-2021 to MAR-2022",
+    "OCT-2020 to SEP-2021",
+    "JUL-2020 to JUN-2021",
+    "APR-2020 to MAR-2021",
+    "JAN-2020 to DEC-2020",
+    "OCT-2019 to SEP-2020",
+    "JUL-2019 to JUN-2020",
+    "APR-2019 to MAR-2020",
+    "JAN-2019 to DEC-2019",
+    "JAN-2019 to JUN-2020",
+    "OCT-2018 to SEP-2019",
+    "JUL-2018 to JUN-2019",
+    "APR-2018 to MAR-2019",
+    "JAN-2018 to DEC-2018",
+    "JAN-2018 to MAR-2019",
+    "JUL-2017 to JUN-2018",
+    "APR-2017 to MAR-2018"
+]
+
+StmtOfImpact can have reporting period: Half%20Yearly, Annual, Quarterly
