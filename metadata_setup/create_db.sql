@@ -30,6 +30,13 @@ create table nse.annualreports (
     symbol varchar(255)
 );
 
+create table nse.metadata(
+    company_name varchar(255),
+    symbol varchar(255),
+    cg_record_id varchar(255),
+    submission_date timestamp
+);
+
 create create schema if not exists trendlyne;
 
 create table trendlyne.conference_calls(

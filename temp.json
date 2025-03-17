@@ -1,0 +1,500 @@
+{
+    "cobod": [
+        {
+            "recId": "105459",
+            "data": {
+                "CompositionBOD": [
+                    {
+                        "title": "Mr.",
+                        "directorName": "BHANDARI VIRENDRA",
+                        "din": "00062228",
+                        "category": "Chairperson & Executive Director-MD",
+                        "date": "23-SEP-2024",
+                        "dateOfCessation": "-",
+                        "tenure": "3",
+                        "noOfDirShp": "1",
+                        "noOfMemberships": "0",
+                        "noOfChairperson": "0",
+                        "dateOfAppointment": "23-SEP-2024",
+                        "dateOfInitialAppo": "12-JAN-2012",
+                        "dob": "12-JUL-1972",
+                        "dirIsdisqualified": "No",
+                        "startdateOfdisqualification": "-",
+                        "enddateOfdisqualification": "-",
+                        "detailsOfdisqualification": "-",
+                        "status": "Active",
+                        "noOfindpntDirShp": "0",
+                        "splresolution": "NA",
+                        "dateOfsplresolution": "-",
+                        "membershipinCommofCompany": "Audit Committee,Stakeholders Relationship Committee,Nomination & Remuneration Committee"
+                    },
+                    {
+                        "title": "Mr.",
+                        "directorName": "AKSHAY BHANDARI",
+                        "din": "09783327",
+                        "category": "Executive Director",
+                        "date": "-",
+                        "dateOfCessation": "-",
+                        "tenure": "3",
+                        "noOfDirShp": "1",
+                        "noOfMemberships": "0",
+                        "noOfChairperson": "0",
+                        "dateOfAppointment": "-",
+                        "dateOfInitialAppo": "23-SEP-2024",
+                        "dob": "17-JUL-1998",
+                        "dirIsdisqualified": "No",
+                        "startdateOfdisqualification": "-",
+                        "enddateOfdisqualification": "-",
+                        "detailsOfdisqualification": "-",
+                        "status": "Active",
+                        "noOfindpntDirShp": "0",
+                        "splresolution": "NA",
+                        "dateOfsplresolution": "-",
+                        "membershipinCommofCompany": "-"
+                    },
+                    {
+                        "title": "Mrs.",
+                        "directorName": "VEENA BHANDARI",
+                        "din": "03570489",
+                        "category": "Executive Director",
+                        "date": "-",
+                        "dateOfCessation": "-",
+                        "tenure": "117",
+                        "noOfDirShp": "1",
+                        "noOfMemberships": "0",
+                        "noOfChairperson": "0",
+                        "dateOfAppointment": "-",
+                        "dateOfInitialAppo": "30-MAR-2015",
+                        "dob": "25-SEP-1975",
+                        "dirIsdisqualified": "No",
+                        "startdateOfdisqualification": "-",
+                        "enddateOfdisqualification": "-",
+                        "detailsOfdisqualification": "-",
+                        "status": "Active",
+                        "noOfindpntDirShp": "0",
+                        "splresolution": "NA",
+                        "dateOfsplresolution": "-",
+                        "membershipinCommofCompany": "-"
+                    },
+                    {
+                        "title": "Mr.",
+                        "directorName": "SANDEEP  KUMAR",
+                        "din": "05192591",
+                        "category": "Independent Director",
+                        "date": "23-DEC-2020",
+                        "dateOfCessation": "-",
+                        "tenure": "148",
+                        "noOfDirShp": "1",
+                        "noOfMemberships": "2",
+                        "noOfChairperson": "1",
+                        "dateOfAppointment": "23-DEC-2020",
+                        "dateOfInitialAppo": "25-AUG-2012",
+                        "dob": "10-AUG-1985",
+                        "dirIsdisqualified": "No",
+                        "startdateOfdisqualification": "-",
+                        "enddateOfdisqualification": "-",
+                        "detailsOfdisqualification": "-",
+                        "status": "Active",
+                        "noOfindpntDirShp": "1",
+                        "splresolution": "NA",
+                        "dateOfsplresolution": "-",
+                        "membershipinCommofCompany": "Audit Committee,Stakeholders Relationship Committee,Nomination & Remuneration Committee"
+                    },
+                    {
+                        "title": "Mr.",
+                        "directorName": "VIPUL KUMAR  JAIN",
+                        "din": "08476476",
+                        "category": "Independent Director",
+                        "date": "29-SEP-2019",
+                        "dateOfCessation": "-",
+                        "tenure": "66",
+                        "noOfDirShp": "1",
+                        "noOfMemberships": "2",
+                        "noOfChairperson": "1",
+                        "dateOfAppointment": "29-SEP-2019",
+                        "dateOfInitialAppo": "11-JUN-2019",
+                        "dob": "18-MAR-1994",
+                        "dirIsdisqualified": "No",
+                        "startdateOfdisqualification": "-",
+                        "enddateOfdisqualification": "-",
+                        "detailsOfdisqualification": "-",
+                        "status": "Active",
+                        "noOfindpntDirShp": "1",
+                        "splresolution": "NA",
+                        "dateOfsplresolution": "-",
+                        "membershipinCommofCompany": "Audit Committee,Stakeholders Relationship Committee,Nomination & Remuneration Committee"
+                    },
+                    {
+                        "title": "Mr.",
+                        "directorName": "SURENDER ARKATHALA",
+                        "din": "06999665",
+                        "category": "Independent Director",
+                        "date": "05-SEP-2022",
+                        "dateOfCessation": "-",
+                        "tenure": "28",
+                        "noOfDirShp": "1",
+                        "noOfMemberships": "1",
+                        "noOfChairperson": "0",
+                        "dateOfAppointment": "05-SEP-2022",
+                        "dateOfInitialAppo": "08-AUG-2022",
+                        "dob": "01-JAN-1952",
+                        "dirIsdisqualified": "No",
+                        "startdateOfdisqualification": "-",
+                        "enddateOfdisqualification": "-",
+                        "detailsOfdisqualification": "-",
+                        "status": "Active",
+                        "noOfindpntDirShp": "1",
+                        "splresolution": "NA",
+                        "dateOfsplresolution": "-",
+                        "membershipinCommofCompany": "-"
+                    }
+                ],
+                "attachment": null,
+                "chairpersonInfo": {
+                    "compChairAppoint": "Yes",
+                    "compBdirChairAppoint": "No"
+                }
+            }
+        }
+    ],
+    "coc": [
+        {
+            "recId": "105459",
+            "data": {
+                "Audit Committee": [
+                    {
+                        "commiteename": "Audit Committee",
+                        "name": "SANDEEP  KUMAR",
+                        "category": "Independent Director",
+                        "chairPersonMember": "Member",
+                        "appointmentDate": "23-Dec-2020",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    },
+                    {
+                        "commiteename": "Audit Committee",
+                        "name": "BHANDARI VIRENDRA",
+                        "category": "Chairperson & Executive Director",
+                        "chairPersonMember": "Member",
+                        "appointmentDate": "12-Mar-2012",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    },
+                    {
+                        "commiteename": "Audit Committee",
+                        "name": "VIPUL KUMAR  JAIN",
+                        "category": "Independent Director",
+                        "chairPersonMember": "Chairperson",
+                        "appointmentDate": "11-Jun-2019",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    }
+                ],
+                "Stakeholders Committee": [
+                    {
+                        "commiteename": "Stakeholders Committee",
+                        "name": "SANDEEP  KUMAR",
+                        "category": "Independent Director",
+                        "chairPersonMember": "Chairperson",
+                        "appointmentDate": "23-Dec-2020",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    },
+                    {
+                        "commiteename": "Stakeholders Committee",
+                        "name": "BHANDARI VIRENDRA",
+                        "category": "Chairperson & Executive Director",
+                        "chairPersonMember": "Member",
+                        "appointmentDate": "11-Jun-2019",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    },
+                    {
+                        "commiteename": "Stakeholders Committee",
+                        "name": "VIPUL KUMAR  JAIN",
+                        "category": "Independent Director",
+                        "chairPersonMember": "Member",
+                        "appointmentDate": "08-Aug-2022",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    }
+                ],
+                "Risk Management Committee": [],
+                "Nomination and Remuneration Committee": [
+                    {
+                        "commiteename": "Nomination and Remuneration Committee",
+                        "name": "SANDEEP  KUMAR",
+                        "category": "Independent Director",
+                        "chairPersonMember": "Chairperson",
+                        "appointmentDate": "23-Dec-2020",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    },
+                    {
+                        "commiteename": "Nomination and Remuneration Committee",
+                        "name": "BHANDARI VIRENDRA",
+                        "category": "Chairperson & Executive Director",
+                        "chairPersonMember": "Member",
+                        "appointmentDate": "11-Jun-2019",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    },
+                    {
+                        "commiteename": "Nomination and Remuneration Committee",
+                        "name": "VIPUL KUMAR  JAIN",
+                        "category": "Independent Director",
+                        "chairPersonMember": "Member",
+                        "appointmentDate": "08-Aug-2022",
+                        "cessationDate": "-",
+                        "COMCOMIT_AUD_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_STAK_PAR_CHA_APPOI": "Yes",
+                        "COMCOMIT_RIS_PAR_CHA_APPOI": "-",
+                        "COMCOMIT_RENUM_PAR_CHA_APPOI": "Yes"
+                    }
+                ],
+                "regChairAppointed": {
+                    "Stakeholders Committee": "Yes",
+                    "Audit Committee": "Yes",
+                    "Risk Management Committee": null,
+                    "Nomination and Remuneration Committee": null
+                }
+            }
+        }
+    ],
+    "bodmeeting": [
+        {
+            "recId": "105459",
+            "data": [
+                {
+                    "datePrevCurrQuarter": "23-SEP-2024  .",
+                    "quorumMet": "Yes",
+                    "dirOnDateMeeting": "6",
+                    "noOfdirector": "6",
+                    "noOfIndptdir": "3",
+                    "maxGap": "51"
+                },
+                {
+                    "datePrevCurrQuarter": "14-NOV-2024  .",
+                    "quorumMet": "Yes",
+                    "dirOnDateMeeting": "6",
+                    "noOfdirector": "6",
+                    "noOfIndptdir": "3",
+                    "maxGap": "51"
+                }
+            ]
+        }
+    ],
+    "meetingcomm": [
+        {
+            "recId": "105459",
+            "data": [
+                {
+                    "commName": "Audit Committee",
+                    "datePrevCurrQuarter": "13-AUG-2024  .",
+                    "quorumMetReq": "Yes",
+                    "dirOnDateMeeting": "3",
+                    "noOfMemAttend": "3",
+                    "noOfIndepdDir": "3",
+                    "QUORUM_MET": "3",
+                    "maxGap": "92"
+                },
+                {
+                    "commName": "Audit Committee",
+                    "datePrevCurrQuarter": "14-NOV-2024  .",
+                    "quorumMetReq": "Yes",
+                    "dirOnDateMeeting": "3",
+                    "noOfMemAttend": "3",
+                    "noOfIndepdDir": "3",
+                    "QUORUM_MET": "3",
+                    "maxGap": "92"
+                },
+                {
+                    "commName": "Nomination and Remuneration Committee",
+                    "datePrevCurrQuarter": "23-SEP-2024  .",
+                    "quorumMetReq": "Yes",
+                    "dirOnDateMeeting": "3",
+                    "noOfMemAttend": "3",
+                    "noOfIndepdDir": "3",
+                    "QUORUM_MET": "3",
+                    "maxGap": "92"
+                },
+                {
+                    "commName": "Nomination and Remuneration Committee",
+                    "datePrevCurrQuarter": "14-NOV-2024  .",
+                    "quorumMetReq": "Yes",
+                    "dirOnDateMeeting": "3",
+                    "noOfMemAttend": "3",
+                    "noOfIndepdDir": "3",
+                    "QUORUM_MET": "3",
+                    "maxGap": "92"
+                },
+                {
+                    "commName": "Stakeholders Committee",
+                    "datePrevCurrQuarter": "13-AUG-2024  .",
+                    "quorumMetReq": "Yes",
+                    "dirOnDateMeeting": "3",
+                    "noOfMemAttend": "3",
+                    "noOfIndepdDir": "3",
+                    "QUORUM_MET": "3",
+                    "maxGap": "92"
+                },
+                {
+                    "commName": "Stakeholders Committee",
+                    "datePrevCurrQuarter": "14-NOV-2024  .",
+                    "quorumMetReq": "Yes",
+                    "dirOnDateMeeting": "3",
+                    "noOfMemAttend": "3",
+                    "noOfIndepdDir": "3",
+                    "QUORUM_MET": "3",
+                    "maxGap": "92"
+                }
+            ]
+        }
+    ],
+    "relpartytxns": [
+        {
+            "recId": "105459",
+            "data": [
+                {
+                    "subject": "Whether prior approval of audit committee obtained",
+                    "compliance": "NA"
+                },
+                {
+                    "subject": "Whether shareholder approval obtained for material RPT",
+                    "compliance": "NA"
+                },
+                {
+                    "subject": "Whether details of RPT entered into pursuant to omnibus approval have been reviewed by Audit Committ",
+                    "compliance": "NA"
+                }
+            ]
+        }
+    ],
+    "affirmations": [
+        {
+            "recId": "105459",
+            "data": {
+                "1. The composition of Board of Directors is in terms of SEBI (Listing obligations and disclosure requirements) Regulations, 2015.": "Yes",
+                "2. The composition of the following committees is in terms of SEBI(Listing obligations and disclosure requirements) Regulations, 2015 a. Audit Committee  ": "Yes",
+                "b. Nomination & remuneration committee ": "Yes",
+                "c. Stakeholders relationship committee": "Yes",
+                "d. Risk management committee (applicable to the top 1000 listed entities)": "Not Applicable",
+                "3. The above committee members have been made aware of their powers, role and responsibilities as specified in SEBI (Listing obligations and disclosure requirements) Regulations, 2015.": "Yes",
+                "4. The meetings of the board of directors and the above committees have been conducted in the manner as specified in SEBI (Listing obligations and disclosure requirements) Regulations, 2015.": "Yes",
+                "5. This report and/or the report submitted in the previous quarter has been placed before Board of Directors. Any comments/observations/advice of Board of Directors may be mentioned here:": "Yes",
+                "affirmReportSubmitData": [
+                    "-"
+                ]
+            }
+        }
+    ],
+    "annex3": [
+        {
+            "recId": "105459",
+            "data": []
+        }
+    ],
+    "annex2": [
+        {
+            "recId": "105459",
+            "data": {
+                "disclosureData": {
+                    "As Per Regulation 46(2) of the LODR": [],
+                    "As Per other regulation of the LODR": []
+                },
+                "affirmationsData": [
+                    {
+                        "broadHeading": "The Listed Entity has approved Material Subsidiary Policy and the Corporate Governance requirements with respect to subsidiary of Listed Entity have been complied.",
+                        "regulationNo": "-",
+                        "complianceStts": "-"
+                    }
+                ],
+                "annualAffirmationsData": []
+            }
+        }
+    ],
+    "annex4": [
+        {
+            "recId": "105459",
+            "data": [
+                {
+                    "ANX4A_PROMOTERAGGAMT": 0,
+                    "ANX4A_PROMOTERBALAMT": 0,
+                    "ANX4A_PROMOTERGROUPAGGAMT": 0,
+                    "ANX4A_PROMOTERGROUPBALAMT": 0,
+                    "ANX4A_DIRECTORSRELATIVESAGGAMT": 0,
+                    "ANX4A_DIRECTORSRELATIVESBALAMT": 0,
+                    "ANX4A_KMPOTENTAGGAMT": 0,
+                    "ANX4A_KMPOTENTBALAMT": 0,
+                    "ANX4B_PROMOTERTYPE": "-",
+                    "ANX4B_PROMOTERAGGAMT": 0,
+                    "ANX4B_PROMOTERBALAMT": 0,
+                    "ANX4B_PROMOTERGROUPTYPE": "-",
+                    "ANX4B_PROMOTERGROUPAGGAMT": 0,
+                    "ANX4B_PROMOTERGROUPBALAMT": 0,
+                    "ANX4B_DIRECTORSRELATIVESTYPE": "-",
+                    "ANX4B_DIRECTORSRELATIVESAGGAMT": 0,
+                    "ANX4B_DIRECTORSRELATIVESBALAMT": 0,
+                    "ANX4B_KMPOTENTTYPE": "-",
+                    "ANX4B_KMPOTENTAGGAMT": 0,
+                    "ANX4B_KMPOTENTBALAMT": 0,
+                    "ANX4C_PROMOTERTYPE": "-",
+                    "ANX4C_PROMOTERAGGAMT": 0,
+                    "ANX4C_PROMOTERBALAMT": 0,
+                    "ANX4C_PROMOTERGROUPTYPE": "-",
+                    "ANX4C_PROMOTERGROUPAGGAMT": 0,
+                    "ANX4C_PROMOTERGROUPBALAMT": 0,
+                    "ANX4C_DIRECTORSRELATIVESTYPE": "-",
+                    "ANX4C_DIRECTORSRELATIVESAGGAMT": 0,
+                    "ANX4C_DIRECTORSRELATIVESBALAMT": 0,
+                    "ANX4C_KMPOTENTTYPE": "-",
+                    "ANX4C_KMPOTENTAGGAMT": 0,
+                    "ANX4C_KMPOTENTBALAMT": 0,
+                    "ANX4D_OTRINFO": "-",
+                    "ANX4AAFFIRMCOMPLSTATUS": "NA",
+                    "ANX4AAFFIRMREMARKS": "-",
+                    "ANX4DATE": null,
+                    "ANX4APPLICABLE": "NOT APPLICABLE",
+                    "ANX4REASONFORNA": "-"
+                }
+            ]
+        }
+    ],
+    "cybersecurity": [
+        {
+            "recId": "105459",
+            "data": [
+                {
+                    "noOfSecurity": null,
+                    "secIncident": "No",
+                    "detailsOfSecurity": null,
+                    "events": []
+                }
+            ]
+        }
+    ]
+}
