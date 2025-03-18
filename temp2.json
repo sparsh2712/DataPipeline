@@ -1,0 +1,70 @@
+{
+    "board_of_directors": [
+        {
+            "director_name": "Mr.BHANDARI VIRENDRA",
+            "din": "00062228",
+            "designation": "Chairperson & Executive Director-MD",
+            "tenure": "3",
+            "membership": [
+                "Audit Committee",
+                "Stakeholders Relationship Committee",
+                "Nomination & Remuneration Committee"
+            ]
+        },
+        {
+            "director_name": "Mr.AKSHAY BHANDARI",
+            "din": "09783327",
+            "designation": "Executive Director",
+            "tenure": "3",
+            "membership": [
+                "-"
+            ]
+        },
+        {
+            "director_name": "Mrs.VEENA BHANDARI",
+            "din": "03570489",
+            "designation": "Executive Director",
+            "tenure": "117",
+            "membership": [
+                "-"
+            ]
+        },
+        {
+            "director_name": "Mr.SANDEEP  KUMAR",
+            "din": "05192591",
+            "designation": "Independent Director",
+            "tenure": "148",
+            "membership": [
+                "Audit Committee",
+                "Stakeholders Relationship Committee",
+                "Nomination & Remuneration Committee"
+            ]
+        },
+        {
+            "director_name": "Mr.VIPUL KUMAR  JAIN",
+            "din": "08476476",
+            "designation": "Independent Director",
+            "tenure": "66",
+            "membership": [
+                "Audit Committee",
+                "Stakeholders Relationship Committee",
+                "Nomination & Remuneration Committee"
+            ]
+        },
+        {
+            "director_name": "Mr.SURENDER ARKATHALA",
+            "din": "06999665",
+            "designation": "Independent Director",
+            "tenure": "28",
+            "membership": [
+                "-"
+            ]
+        }
+    ],
+    "communities": [
+        "Audit Committee",
+        "Stakeholders Committee",
+        "Nomination and Remuneration Committee",
+        "regChairAppointed"
+    ]
+}
